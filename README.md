@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @KozlovAntonn
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Instagram bot project 
 - 📫 Mail: anton.kozlov.khv@gmail.com
 - 📫 Telegram: @antonkozlov_ak
 
